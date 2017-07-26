@@ -1,0 +1,9 @@
+Git 的使用
+git init 将当前文件夹进行初始化
+git status 查看文件状态
+git add 文件名--->将指定的文件夹放到暂存区 
+添加一个文件:  git add 文件路径
+添加多个文件:  git add 文件路径1 文件路径2
+添加一个文件夹中的所有文件:  git add 文件夹路径
+技巧: 在仓库的根目录中使用: git add ,将仓库中的所有文件放到暂存区中
+把文件放到暂存区之后,状态时: 待提交( changes to be committed )
